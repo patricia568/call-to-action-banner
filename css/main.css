@@ -21,6 +21,8 @@ html {
   margin: 0;
   width: 17em;
   max-width: 17em;
+  margin-top: 10px;
+  margin-bottom: 30px;
 }
 
 .btn-big {
