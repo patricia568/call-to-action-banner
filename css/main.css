@@ -19,6 +19,8 @@ html {
 
 .banner p{
   margin: 0;
+  width: 17em;
+  max-width: 17em;
 }
 
 .btn-big {
