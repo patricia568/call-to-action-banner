@@ -4,9 +4,14 @@ html {
 
 *, *::before, *::after {
   box-sizing: inherit;
+  font-family: 'Roboto', sans-serif;
 }
 
 .banner h2 {
   font-size: 3rem;
   font-family: 'Roboto Condensed', sans-serif;
+}
+
+.banner p{
+  font-size: 1.5rem;
 }
