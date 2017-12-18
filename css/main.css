@@ -23,3 +23,11 @@ html {
   text-decoration: none;
   color: #000;
 }
+
+.image-1 {
+  width: 100%;
+}
+
+body {
+  margin: 0;
+}
