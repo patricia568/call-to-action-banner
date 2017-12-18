@@ -54,3 +54,15 @@ body {
   float: left;
   margin-left: 60px;
 }
+
+.banner {
+  position: absolute;
+  top: 50%;
+  bottom: 50%;
+  left: 50%;
+  right: 50%;
+}
+
+.container {
+  position: relative;
+}
